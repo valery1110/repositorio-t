@@ -13,7 +13,7 @@
      
 }
 body{
-    background-image: url("fondos.jpg");
+    background-image: url("fondo2.jpg");
    
 
 }
@@ -36,6 +36,13 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     height: 500px;
     width: 500px;
     background-image: url("medellin.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img3{
+    height: 500px;
+    width: 500px;
+    background-image: url("img3.jpg");
     background-repeat: no-repeat;
     float: left;
 }
