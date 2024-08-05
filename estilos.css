@@ -28,28 +28,40 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 .img1{
     height: 193px;
     width: 300px;
-    background-image: url("piedra.jpeg");
+    background-image: url("img1.jpg");
     background-repeat: no-repeat;
     float: right;
 }
-.img2{
-    height: 500px;
-    width: 500px;
-    background-image: url("medellin.jpeg");
-    background-repeat: no-repeat;
-    float: left;
-}
-.img3{
-    height: 500px;
-    width: 500px;
-    background-image: url("img3.jpg");
-    background-repeat: no-repeat;
-    float: left;
-}
+
 .img4{
-    height: 500px;
-    width: 500px;
+    height: 193px;
+    width: 300px;
     background-image: url("img4.jpg");
     background-repeat: no-repeat;
-    float: left;
-} 
+    float: right;
+}
+
+.img6{
+    height: 193px;
+    width: 300px;
+    background-image: url("img6.jpg");
+    background-repeat: no-repeat;
+    float: right;
+}
+
+.img5{
+    height: 193px;
+    width: 300px;
+    background-image: url("img5.jpg");
+    background-repeat: no-repeat;
+    float: right;
+}
+
+.mapamental{
+    height: 193px;
+    width: 300px;
+    background-image: url("mapamental.png");
+    background-repeat: no-repeat;
+    float: right;
+}
+
