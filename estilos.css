@@ -74,3 +74,19 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 
+.mapaconceptual{
+    height: 193px;
+    width: 300px;
+    background-image: url("mapa conceptual.png");
+    background-repeat: no-repeat;
+    float: right;
+}
+
+.imgtec3{
+    height: 191px;
+    width: 300px;
+    background-image: url("fun.excel\ 1.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
