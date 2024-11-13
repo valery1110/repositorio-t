@@ -90,3 +90,10 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 }
 
+.medellin{
+    height: 191px;
+    width: 300px;
+    background-image: url("medellin.png");
+    background-repeat: no-repeat;
+    float: left;
+}
