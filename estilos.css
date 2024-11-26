@@ -66,7 +66,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 
-.imgecxel{
+.img1l{
      height: 500px;
     width: 600px;
     background-image: url("que-es-funcion-excel\ \(1\).jpg");
@@ -82,7 +82,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: right;
 }
 
-.imgtec3{
+.img2{
     height: 191px;
     width: 300px;
     background-image: url("fun.excel\ 1.jpg");
@@ -90,10 +90,10 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 }
 
-.medellin{
+.imgr{
     height: 191px;
     width: 300px;
-    background-image: url("medellin.png");
+    background-image: url("Record\ \(online-voice-recorder.com\)\ \(1\).mp3");
     background-repeat: no-repeat;
     float: left;
 }
