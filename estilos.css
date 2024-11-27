@@ -5,7 +5,7 @@
     font-size: 40px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(244, 237, 237);
+    color: rgb(0, 0, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .principal{
@@ -13,7 +13,7 @@
      
 }
 body{
-    background-image: url("fondo2.jpg");
+    background-image: url("fondos.jpg");
    
 
 }
@@ -66,7 +66,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 
-.img1l{
+.imgecxel{
      height: 500px;
     width: 600px;
     background-image: url("que-es-funcion-excel\ \(1\).jpg");
@@ -74,26 +74,53 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 
-.mapaconceptual{
+.mapamental{
     height: 193px;
     width: 300px;
     background-image: url("mapa conceptual.png");
     background-repeat: no-repeat;
     float: right;
 }
-
-.img2{
-    height: 191px;
-    width: 300px;
-    background-image: url("fun.excel\ 1.jpg");
+.mapaconceptual{
+    height: 693px;
+    width: 1000px;
+    background-image: url("mapa\ conceptual.png");
     background-repeat: no-repeat;
-    float: left;
+    float: right;
+
+
+
+}
+.SUMA{
+    height: 393px;
+    width: 600px;
+    background-image: url("SUMA\ \(1\).JPG");
+    background-repeat: no-repeat;
+    
+
+
+
+}
+.mmm{
+    height: 1093px;
+    width: 1100px;
+    background-image: url("mmmm.jpg");
+    background-repeat: no-repeat;
+
+
+
+}
+.textoingles1{
+
+    font-size: 40px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: aqua;
+
+
+
 }
 
-.imgr{
-    height: 191px;
-    width: 300px;
-    background-image: url("Record\ \(online-voice-recorder.com\)\ \(1\).mp3");
-    background-repeat: no-repeat;
-    float: left;
-}
+
